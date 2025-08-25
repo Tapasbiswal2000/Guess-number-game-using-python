@@ -1,3 +1,4 @@
+#importing random module for generate random numbers.
 import random
 
 random_no = random.randint(1,1000)
